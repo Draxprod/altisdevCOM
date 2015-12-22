@@ -1,4 +1,3 @@
-# altisdevCOM
 # JoyeuxNoel
 
 Bienvenue sur le GitHub du forum AltisDev.com
